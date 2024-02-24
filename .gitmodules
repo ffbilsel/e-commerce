@@ -1,0 +1,6 @@
+[submodule "user-management"]
+	path = user-management
+	url = https://github.com/ffbilsel/user-management.git
+[submodule "product-catalog"]
+	path = product-catalog
+	url = https://github.com/ffbilsel/product-catalog.git
